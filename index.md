@@ -1,3 +1,0 @@
-# MD index file
-
-content
