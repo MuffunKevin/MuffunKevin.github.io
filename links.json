@@ -1,0 +1,34 @@
+{
+    "days": [
+        {
+            "date":  "2017-05-30",
+             "links" : [
+                 {
+                     "type": "Matériel",
+                     "description": "Les nouveaux CPU d'Intel",
+                     "adress": "https://www.theverge.com/circuitbreaker/2017/5/30/15710476/intel-core-x-processors-i9-chips-i5-i9-skylake-kaby-lake-computex"
+                 },
+                 {
+                     "type": "Matériel",
+                     "description": "Toshiba annonce un nouveau disque SSD PCI 64 couches fonctionnel",
+                     "adress": "http://www.tomshardware.com/news/toshiba-xg5-ocz-rd500-ssd,34508.html"
+                 },
+                 {
+                     "type": "WTF",
+                     "description": "Des élèves de La Ruche de Magog forcé de reprendre leur examen de français parce que leur ordinateur avait toujours Antidote d'activé au moment de faire le test.",
+                     "adress": "http://ici.radio-canada.ca/breve/90493/examen-reprise-francais-la-ruche-magog"
+                 },
+                 {
+                     "type": "Matériel",
+                     "description": "EVGA a sorti les specs de la 1080 ti KINGPIN qui sort en juillet.",
+                     "adress": "http://www.tomshardware.com/news/evga-1080-ti-kingpin-edition-overclock,34551.html"
+                 },
+                 {
+                     "type": "Jeux",
+                     "description": "Ubisoft lance un jeu de simulation de pont du vesseau Enterprise en VR.",
+                     "adress": "https://twitter.com/Ubisoft/status/869588600773586944"
+                 }
+             ]
+        }
+    ]
+}
