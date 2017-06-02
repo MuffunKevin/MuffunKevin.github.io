@@ -42,12 +42,7 @@
                     "type": "Cellulaire",
                     "description": "Android Pay serait disponible au Canada demain.",
                     "adress": "https://www.reddit.com/r/PersonalFinanceCanada/comments/6eakx4/android_pay_canada_details/"
-                }
-            ]
-        },
-        {
-            "date": "2017-06-01",
-            "links": [
+                },
                 {
                     "type":"WTF",
                     "description":"La dernière niaiserie de Trump: une faute de frappe.",
@@ -82,6 +77,36 @@
                     "type":"Programmation",
                     "description":"Des vidéos de 10h semble avoir disparut de Youtube.",
                     "adress":"https://meta.stackoverflow.com/questions/349957/index-php-not-working?cb=1"
+                },
+                {
+                    "type":"FAIL",
+                    "description":"Une des rare Model X Founder Edition de Tesla est pobablement perte totale.",
+                    "adress": "http://roulezelectrique.com/model-x-founder-un-accident-qui-fait-mal-au-coeur/"
+                },
+                {
+                    "type":"NICE",
+                    "description":"Un petit time laspe d'un orage qui a passé sur Sherbrooke aujourd'hui.",
+                    "adress": "https://www.youtube.com/watch?v=W7MwvtOw14s"
+                },
+                {
+                    "type":"NICE",
+                    "description": "Google Street view est maintenant disponible dans certain magasins de Sherbrooke.",
+                    "adress": "https://www.google.ca/maps/@45.401509,-71.95253,3a,75y,229.11h,77.52t/data=!3m8!1e1!3m6!1sf-88Nqp8OBwAAAQWtOUBBg!2e0!3e11!6s%2F%2Fgeo0.ggpht.com%2Fcbk%3Fpanoid%3Df-88Nqp8OBwAAAQWtOUBBg%26output%3Dthumbnail%26cb_client%3Dmaps_sv.tactile.gps%26thumb%3D2%26w%3D203%26h%3D100%26yaw%3D148.03801%26pitch%3D0%26thumbfov%3D100!7i13312!8i6656"
+                }
+            ]
+        },
+        {
+            "date":"2017-06-01",
+            "links":[
+                {
+                    "type":"Musique",
+                    "description": "Un nouveau vidéoclip des Foo Figthers",
+                    "adress":"https://www.youtube.com/watch?v=ifwc5xgI3QM"
+                },
+                {
+                    "type": "Bande dessinée",
+                    "description": "La triste réalité des finissants en informatique.",
+                    "adress": "http://www.commitstrip.com/en/2017/06/01/depressed-sysadmin-the-days-when-we-go-without/"
                 }
             ]
         }
