@@ -29,6 +29,21 @@
                      "adress": "https://twitter.com/Ubisoft/status/869588600773586944"
                  }
              ]
+        },
+        {
+            "date": "2017-05-31",
+            "links": [
+                {
+                    "type": "Programmation",
+                    "description": "NodeJS version 8 est maintenant disponible.",
+                    "adress": "https://nodejs.org/en/blog/release/v8.0.0/"
+                },
+                {
+                    "type": "Cellulaire",
+                    "description": "Android Pay serait disponible au Canada demain.",
+                    "adress": "https://www.reddit.com/r/PersonalFinanceCanada/comments/6eakx4/android_pay_canada_details/"
+                }
+            ]
         }
     ]
 }
