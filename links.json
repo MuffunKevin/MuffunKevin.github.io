@@ -44,6 +44,46 @@
                     "adress": "https://www.reddit.com/r/PersonalFinanceCanada/comments/6eakx4/android_pay_canada_details/"
                 }
             ]
+        },
+        {
+            "date": "2017-06-01",
+            "links": [
+                {
+                    "type":"WTF",
+                    "description":"La dernière niaiserie de Trump: une faute de frappe.",
+                    "adress": "https://twitter.com/hashtag/Covfefe"
+                },
+                {
+                    "type": "WTF",
+                    "description": "La réponse de Trump à sa faute de frappe.",
+                    "adress": "https://twitter.com/realDonaldTrump/status/869858333477523458?ref_src=twsrc%5Etfw&ref_url=https%3A%2F%2Fwww.theverge.com%2F2017%2F5%2F31%2F15717442%2Fdonald-trump-covfefe-tweet-twitter"
+                },
+                {
+                    "type":"WIN",
+                    "description": "Google Map permet de faire de visite Stree View de musées et d'avoir des informations sur l'oeuvre qui est regardé.",
+                    "adress":"https://www.youtube.com/watch?v=65NJfQyWuUs"
+                },
+                {
+                    "type": "WTF",
+                    "description": "Du desing brutale.",
+                    "adress": "http://www.pierrebuttin.com/work/brutalist-redesigns/"
+                },
+                {
+                    "type":"Cellulaire",
+                    "description": "Plus d'information sur Android Pay.",
+                    "adress": "https://canada.googleblog.com/2017/05/hey-canada-get-android-pay.html"
+                },
+                {
+                    "type": "Cellulaire",
+                    "description": "Encore plus d'information sur Android Pay.",
+                    "adress": "https://www.cnet.com/how-to/android-pay-phone-how-it-works/"
+                },
+                {
+                    "type":"Programmation",
+                    "description":"Des vidéos de 10h semble avoir disparut de Youtube.",
+                    "adress":"https://meta.stackoverflow.com/questions/349957/index-php-not-working?cb=1"
+                }
+            ]
         }
     ]
 }
